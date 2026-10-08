@@ -409,6 +409,13 @@ export const LOCATION_OPTIONS: readonly LocationOption[] = [
   { code: 2616, label: "Poland", shortLabel: "PL", languageCode: "pl" },
   { code: 2620, label: "Portugal", shortLabel: "PT", languageCode: "pt" },
   {
+    code: 2630,
+    label: "Puerto Rico",
+    shortLabel: "PR",
+    languageCode: "es",
+    googleAdsOnly: true,
+  },
+  {
     code: 2634,
     label: "Qatar",
     shortLabel: "QA",
